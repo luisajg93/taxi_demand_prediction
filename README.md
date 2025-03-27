@@ -21,3 +21,4 @@ Crear un modelo de machine learning para analizar la serie temporal que obtenga 
 ## Resultados
 - Se utilizó la **prueba estadísitca de Dickey-Fuller** para verificar la estacionalidad de la serie temporal.
 - El modelo construido obtuvo un score RMSE de 29, un **rendimiento 40% mejor** que el esperado.
+- En el archivo *codigo_proyecto* se puede observar el dasarrollo completo del proyecto, desde el análisis exploratorio hasta el entrenamiento de los modelos de machine learning.
